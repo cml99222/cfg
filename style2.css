@@ -1,0 +1,9 @@
+.nav a {
+  background-color: red; color: white}
+.color-info{background-color: #6495ED}
+#about_yellow{background-color: #FFEBCD; border: 3px solid black}
+.dum2 {color: blue}
+.important1 {color: blue; font-weight: bold;}
+.important2 {color: orange; font-weight: bold;}
+#about_blue{border: 3px solid yellow; line-break; margin-bottom: 10px}
+.dum3 {color: orange}
